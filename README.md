@@ -8,7 +8,7 @@ Quantum  computers  could  spur  the  development  of  new  breakthroughs  in  s
 
 ## Description
 
-A simulation of a quantum computer was implemented on a classical computer using the Python programming language. All basic components of a quantum computer were created and Grover’s quantum search algorithm was implemented and successfully run, without using any specialised quantum computing libraries.
+A simulation of a quantum computer was implemented on a classical computer using the Python programming language. All basic components of a quantum computer were created and Grover’s quantum search algorithm was implemented and successfully run, without using any specialised quantum computing libraries. This project was completed as a part of the course Quantum Computing Project at the University of Edinburgh in the second semester of the academic year 2019/20.
 
 ## Result
 
@@ -16,10 +16,10 @@ The project has corroborated previous results of Grover's time complexity <img s
 
 ## Authors
 
+- Andrea Husseiniova
 - Dan Buxton
 - Tommaso Bruggi
 - Ricardo Del Rio Fuente
 - Matthaios Chouzouris
 - Sagar Patel
 - Hasancan Cifci
-- Andrea Husseiniova
